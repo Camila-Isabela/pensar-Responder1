@@ -34,24 +34,20 @@ Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-c
 
 ## Servidor de Desenvolvimento
 
-Execute `ng serve` para iniciar um servidor de desenvolvimento. Navegue para `http://localhost:4200/`. A aplicação será recarregada automaticamente se você alterar algum dos arquivos de origem.
+Para iniciar o servidor de desenvolvimento, você pode executar `npm run start`. Após isso, navegue para a url definida no terminal. No exemplo prático foi`http://localhost:4200/`. A aplicação será recarregada automaticamente se você alterar algum dos arquivos de origem.
 
 ## Estrutura do Código
 
-Execute `ng generate component nome-do-componente` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para gerar um novo componente, utilize `ng generate component nome-do-componente`. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Construção
 
-Execute `ng build` para compilar o projeto. Os artefatos de compilação serão armazenados no diretório `dist/`.
-
-## Execução de Testes Unitários
-
-Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
-
-## Execução de Testes de Ponta a Ponta
-
-Execute `ng e2e` para executar os testes de ponta a ponta em uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implementa as capacidades de teste de ponta a ponta.
+Para compilar o projeto, execute `ng build`. Os artefatos de compilação serão armazenados no diretório `dist/`.
 
 ## Ajuda Adicional
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
+
+
+
+
